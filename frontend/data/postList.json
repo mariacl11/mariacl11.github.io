@@ -1,36 +1,5 @@
 {
-  "posts": [
-    {
-      "slug": "di-yi-ci-er-kai-ce-shi",
-      "title": "第一次二开测试",
-      "labels": [
-        "documentation"
-      ],
-      "createdAt": "2026-09-25",
-      "description": "TEST 测试",
-      "top": 0
-    },
-    {
-      "slug": "unhappy",
-      "title": "unhappy",
-      "labels": [
-        "documentation"
-      ],
-      "createdAt": "2026-09-25",
-      "description": "美味音乐！！！",
-      "top": 0
-    },
-    {
-      "slug": "Romen-ce-shi-romen-test",
-      "title": "Romen测试romen-test",
-      "labels": [
-        "documentation"
-      ],
-      "createdAt": "2026-09-25",
-      "description": "This is TEST",
-      "top": 0
-    }
-  ],
+  "posts": [],
   "labelColorDict": {
     "accessibility": "#f143ab",
     "bug": "#d73a4a",
